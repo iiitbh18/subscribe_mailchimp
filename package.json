@@ -7,7 +7,7 @@
     "start": "node app",
     "dev": "nodemon app"
   },
-  "author": "Brad Traversy",
+  "author": "Bhaskar ",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
